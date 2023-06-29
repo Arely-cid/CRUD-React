@@ -1,0 +1,44 @@
+.App {
+    text-align: center;
+    background-color: #fafdfd;
+    background-size: 100%;
+  }
+.container{
+    padding-top: 20px;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+h1{
+    font-family: 'Times New Roman';
+}
+
+h2{
+    font-family: 'Comic Sans MS';
+}
+table thead {
+    background-color:rgb(191, 243, 247);
+  }
+  table {
+    background-color: rgb(246, 246, 246);
+    border-collapse: collapse;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  tr:nth-child(even) {
+    background-color: rgb(241, 238, 238);
+    color: rgb(8, 8, 8);
+  }
+  
+tr:hover {
+    background-color: rgb(31, 30, 31);
+    color: white;
+  }
+  header {
+    background-color: rgb(173, 200, 219);
+    margin-left: 5%;
+    margin-right: 5%;
+  }
